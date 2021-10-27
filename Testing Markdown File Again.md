@@ -13,6 +13,8 @@ Ok now I’m testing it again with this new method
 
 [here’s a markdown link to twitter](twitter.com)
 
+twitter.com
+
 
 
 
