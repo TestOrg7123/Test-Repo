@@ -10,6 +10,10 @@ Ok now I’m testing it again with this new method
 ## Above is an image. This is H2
 
 
+hey all
+
+![twtter](https://pixabay.com/illustrations/ice-crystal-ice-frost-cold-crystal-2871068/)
+
 
 ![here’s a markdown link to twitter](twitter.com)
 
