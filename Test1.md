@@ -54,7 +54,18 @@ Now a link to a new note [[Test2]]
 
 Text
 
-![yooo](Test1/surfing-2212948.jpg)
+![yooo](Test1/surfing-2212948.jpg)(twitter.com)
+
+
+[yooo](Test1/surfing-2212948.jpg)(twitter.com)
+
+
+https://twitter.com/home
+
+
+[yooo](Test1/surfing-2212948.jpg)(https://twitter.com/home)
+
+![yooo](Test1/surfing-2212948.jpg)(https://twitter.com/home)
 
 
 ### Second Header 3
