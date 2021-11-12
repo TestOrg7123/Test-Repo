@@ -3,6 +3,11 @@
 Here is some text. I’m testing the features of uploading to GitHub 
 
 
+[](Test2.md)
+
+
+![](Test3.md)
+
 
 
 
@@ -47,6 +52,8 @@ A bunch of spaces
 
 
 Now a link to a new note [[Test2]]
+
+
 
 
 ## Second Header 2 
