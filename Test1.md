@@ -11,6 +11,15 @@ Here is some text. I’m testing the features of uploading to GitHub
 
 
 
+
+[Test2](Test2.md)
+
+
+![Test3](Test3.md)
+
+
+
+
 Lorem ipsum
 
 
