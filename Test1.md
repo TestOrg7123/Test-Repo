@@ -54,7 +54,7 @@ Now a link to a new note [[Test2]]
 
 Text
 
-![](Test1/surfing-2212948.jpg)
+![yooo](Test1/surfing-2212948.jpg)
 
 
 ### Second Header 3
