@@ -65,6 +65,14 @@ Heres a cat GIF downloaded from telegram. The file format type is mp4
 
 
 
+Heres a cat GIF downloaded from telegram. The file format type is mp4
+<a href='Test1/cat.mp4'>cat.mp4</a>
+
+
+
+![](Test1/cat.mp4)
+
+
 Here’s a link to the current page I’m writing on
 [[Test Upload 1]]
 
