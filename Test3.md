@@ -70,7 +70,7 @@ Gif Embed from Giphy (not responsive)
 
 GIF embed from Giphy (responsive)
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/7frSUXgbGqQPKNnJRS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen><_iframe><_div><p><a href="https://giphy.com/gifs/CoopPrix-7frSUXgbGqQPKNnJRS">via GIPHY<_a><_p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/7frSUXgbGqQPKNnJRS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen><_iframe><_div><p><a href="https://giphy.com/gifs/CoopPrix-7frSUXgbGqQPKNnJRS">via GIPHY<_a>
 
 ![](Test3/3B7BC666-2C97-48AE-ADD1-729669E9AB50.png)
 
