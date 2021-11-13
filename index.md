@@ -1,6 +1,6 @@
 here's the markdown file for the index
 
 
-[](Test1)
+[t1](Test1)
 
-![](Test2)
+![t2](Test2)
