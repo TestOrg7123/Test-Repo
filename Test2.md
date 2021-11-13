@@ -13,6 +13,11 @@ Now a link to the previous note [[Test1]]
 
 
 
+![test1](Test1)
+
+
+[T3](Test3)
+
 
 
 Here is shades mp4 file downloaded from telegram
@@ -29,9 +34,14 @@ And a couple more from telegram
 ![](Test2/suit.mp4)
 
 
-<a href='gm.mp4'>gm.mp4</a>
+<a href='Test2/gm.mp4'>gm.mp4</a>
 
 
+
+![](Test2/gm.mp4)
+
+
+![](Test2/gm.mp4)(twitter.com)
 
 Here’s a YouTube embed with the options in screenshot below
 
