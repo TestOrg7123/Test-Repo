@@ -44,7 +44,6 @@ hiiii
 
 Gif Embed from Giphy (not responsive)
 
-<iframe src="https://giphy.com/embed/7frSUXgbGqQPKNnJRS" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen><_iframe><p><a href="https://giphy.com/gifs/CoopPrix-7frSUXgbGqQPKNnJRS">via GIPHY<_a></p>
 
 
 ![](Test3/71F231F5-A4B7-45EC-BE4C-027E38A56FC0.png)
