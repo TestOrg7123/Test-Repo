@@ -13,7 +13,7 @@ here's the markdown file for the index
 
 
 
-[testnotion3](testnotion3export/testnotion3%206ed2313897c9435d8d99a18da5a422e3.md)
+[testnotion3](testnotion3export/testnotion3%206ed2313897c9435d8d99a18da5a422e3)
 
 
 
@@ -31,7 +31,7 @@ here's the markdown file for the index
 <br/>
 
 
-[testnotion1](testnotion1%2095d95d352cbe4030830a72a5766afd06.md)
+[testnotion1](testnotion1%2095d95d352cbe4030830a72a5766afd06)
 
 
 
